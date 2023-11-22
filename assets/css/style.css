@@ -3,7 +3,7 @@ html {
 }
 
 .koders-color {
-    color: #0e0f13c8;
+    color: #0734e7c8;
 }
 
 .koders-background {
@@ -92,6 +92,18 @@ html {
 	text-transform: uppercase;
 	letter-spacing: 2px;
 }
+
+.tit-serv-g{
+    color: #0734e7c8;
+    text-align: center;
+	padding: 12px 20px;
+	transition: .5s ease all;
+	font-size: 20px;
+	font-family: 'Noto Sans', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
 /* Equipo */
 .equipo-desc {
     font-size: 1.25rem;
