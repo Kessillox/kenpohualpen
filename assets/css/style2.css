@@ -1,0 +1,28 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: rgb(226, 41, 41);
+}
+.hero-section, .invitacion-torneo {
+    background-color: rgba(13, 8, 8, 0.712);
+    padding: 15px 0;
+    text-align: center;
+}
+.content-section {
+    padding: 40px 0;
+}
+.escuelas-info {
+    background-color: rgb(12, 5, 5);   
+}
+.carrusel{
+    margin: 5px;
+}
+.invitacion-titulo{
+    text-align: center;
+	padding: 12px 20px;
+	transition: .5s ease all;
+	font-size: 36px;
+	font-family: 'Noto Sans', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
